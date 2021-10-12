@@ -16,7 +16,7 @@
 
 # 목차
 ## 1. Binary Classification - Tabular data
-### 1st level. Titanic competition (https://https://www.kaggle.com/c/titanic)
+### 1st level. Titanic competition (https://www.kaggle.com/c/titanic)
 - [1st kernel] 타이타닉 튜토리얼 (https://kaggle-kr.tistory.com/17?category=868316, 
   https://kaggle-kr.tistory.com/18?category=868316) 
 

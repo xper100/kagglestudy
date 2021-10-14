@@ -18,11 +18,11 @@
 ## 1. Binary Classification - Tabular data
 ### 1st level. Titanic competition (https://www.kaggle.com/c/titanic)
 - [1st kernel] 타이타닉 튜토리얼 (https://kaggle-kr.tistory.com/17?category=868316, 
-  https://kaggle-kr.tistory.com/18?category=868316) 
+  https://kaggle-kr.tistory.com/18?category=868316) (2021.10.12)
 
-- [2nd kernel]  EDA To Prediction(DieTanic) (https://www.kaggle.com/ash316/eda-to-prediction-dietanic)
+- [2nd kernel]  EDA To Prediction(DieTanic) (https://www.kaggle.com/ash316/eda-to-prediction-dietanic) (2021.10.13~14)
 
-- [3rd kernel] Titanic Top 4% with ensemble modeling (https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling) 
+- [3rd kernel] Titanic Top 4% with ensemble modeling (https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling) (2021.10.14)
 
 - [4th kernel] Introduction to Ensembling/Stacking in Python (https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
 

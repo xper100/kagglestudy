@@ -22,9 +22,9 @@
 
 - [2nd kernel]  EDA To Prediction(DieTanic) (https://www.kaggle.com/ash316/eda-to-prediction-dietanic) (2021.10.13~14)
 
-- [3rd kernel] Titanic Top 4% with ensemble modeling (https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling) (2021.10.14)
+- [3rd kernel] Titanic Top 4% with ensemble modeling (https://www.kaggle.com/yassineghouzam/titanic-top-4-with-ensemble-modeling) (2021.10.14~15)
 
-- [4th kernel] Introduction to Ensembling/Stacking in Python (https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python)
+- [4th kernel] Introduction to Ensembling/Stacking in Python (https://www.kaggle.com/arthurtok/introduction-to-ensembling-stacking-in-python) (2021.10.15~16)
 
 ### 2nd level. Porto (https://www.kaggle.com/c/porto-seguro-safe-driver-prediction)
 - [1st kernel] Data Preparation & Exploration (https://www.kaggle.com/bertcarremans/data-preparation-exploration) 

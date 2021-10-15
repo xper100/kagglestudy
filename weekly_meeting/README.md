@@ -17,5 +17,14 @@
 # 이거 나만 신박해?
 
 ## Week 1
-- Data wrangling 이후 바로 시각화 할 수 있던 방식 ex) data.groupby().mean().plot.bar()
-- 
+- Data wrangling 이후 바로 시각화 할 수 있던 방식 
+```
+data.groupby().mean().plot.bar()
+```
+- factorplot()의 유용성 -> 카테고리형 데이터를 시각화하는데 유용함
+- crosstab을 활용한 title 결측치 처리  
+```
+pd.crosstab(data.Initial, data.Sex).T.style.background_gradient(cmap='summer_r')
+```
+
+- pd.qcut()을 활용한 데이터 동일한 벙위로 범주화 변환

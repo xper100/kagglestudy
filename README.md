@@ -105,7 +105,7 @@
 - 1st kernel (https://www.kaggle.com/joparga3/in-depth-skewed-data-classif-93-recall-acc-now) 
 - 2nd kernel (https://www.kaggle.com/matheusfacure/semi-supervised-anomaly-detection-survey) 
 ### 2nd level. Kaggle survey(https://www.kaggle.com/kaggle/kaggle-survey-2017)
-- 1st kernel (https://www.kaggle.com/ash316/novice-to-grandmaster) 
+- 1st kernel (https://www.kaggle.com/ash316/novice-to-grandmaster) (2021.10.20)
 - 2nd kernel (https://www.kaggle.com/mhajabri/what-do-kagglers-say-about-data-science) 
 - 3rd kernel (https://www.kaggle.com/hakkisimsek/plotly-tutorial-1) 
 

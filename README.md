@@ -109,3 +109,7 @@
 - 2nd kernel (https://www.kaggle.com/mhajabri/what-do-kagglers-say-about-data-science) 
 - 3rd kernel (https://www.kaggle.com/hakkisimsek/plotly-tutorial-1) 
 
+## 10. H&M Personalized Fashion Recommendations - Recommentdation
+- 1st kernel ()
+- 2nd kernel ()
+- 3rd kernel ()
